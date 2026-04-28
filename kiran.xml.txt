@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="kiran.css"?>
+
+<college>
+    
+	<student>
+		<name>Kiran WAGHMODE </name>
+		<gender>Male</gender>
+		<age> 20 </age>
+		<course> Computer  Engineering</course>
+		<year> second year</year>
+		<collegeName> D Y Patil college of engineering and technology, Kolhapur</collegeName>
+		<address>
+		<city> Malshiras</city>
+		<state> Maharashtra</state>
+		<country> India </country>
+		</address>
+		<contact>
+		<mobile>1234656789</mobile>
+		<email>waghmodekiran001@gmail.com</email>
+		</contact>
+		<skills>
+		<p> Basic Java programming</p>
+		<p> Python</p>
+		<p> Web development</p>
+		</skill>
+</student>
+</college>
+
+

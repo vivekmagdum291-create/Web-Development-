@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title style="color:pink">Formulas in Table</title>
+</head>
+<body>
+
+    <h1 align="center" style="background-color:blue">Formulas Table</h1>
+
+    <table border="1" cellpadding="10" cellspacing="5" width="80%" align="center">
+        
+        <!-- Table Heading -->
+        <tr>
+            <th>Maths Formulas</th>
+            <th>Physics Formulas</th>
+            <th>Chemistry Formulas</th>
+        </tr>
+
+       
+        <tr>
+            <td>(a + b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></td>
+            <td>v = u + at</td>
+            <td>H<sub>2</sub>O</td>
+        </tr>
+
+     
+        <tr>
+            <td>(a - b)<sup>2</sup> = a<sup>2</sup> - 2ab + b<sup>2</sup></td>
+            <td>s = ut + 1/2at<sup>2</sup></td>
+            <td>CO<sub>2</sub></td>
+        </tr>
+
+        <!-- Row 3 -->
+        <tr>
+            <td>a<sup>2</sup> - b<sup>2</sup> = (a+b)(a-b)</td>
+            <td>v<sup>2</sup> = u<sup>2</sup> + 2as</td>
+            <td>O<sub>2</sub></td>
+        </tr>
+
+        <!-- Row 4 -->
+        <tr>
+            <td>x<sup>3</sup> + y<sup>3</sup> = (x+y)(x<sup>2</sup> - xy + y<sup>2</sup>)</td>
+            <td>F = ma</td>
+            <td>N<sub>2</sub></td>
+        </tr>
+
+        <!-- Row 5 -->
+        <tr>
+            <td>x<sup>3</sup> - y<sup>3</sup> = (x-y)(x<sup>2</sup> + xy + y<sup>2</sup>)</td>
+            <td>E = mc<sup>2</sup></td>
+            <td>CH<sub>4</sub></td>
+        </tr>
+
+        <!-- Row 6 -->
+        <tr>
+            <td>(a + b + c)<sup>2</sup></td>
+            <td>P = VI</td>
+            <td>NH<sub>3</sub></td>
+        </tr>
+
+        <!-- Row 7 -->
+        <tr>
+            <td>(a + b)<sup>3</sup></td>
+            <td>V = IR</td>
+            <td>H<sub>2</sub>SO<sub>4</sub></td>
+        </tr>
+
+        <!-- Row 8 -->
+        <tr>
+            <td>(a - b)<sup>3</sup></td>
+            <td>KE = 1/2mv<sup>2</sup></td>
+            <td>NaCl</td>
+        </tr>
+
+        <!-- Row 9 -->
+        <tr>
+            <td>x<sup>n</sup> × x<sup>m</sup> = x<sup>n+m</sup></td>
+            <td>PE = mgh</td>
+            <td>CaCO<sub>3</sub></td>
+        </tr>
+
+        <!-- Row 10 -->
+        <tr>
+            <td>√(a<sup>2</sup> + b<sup>2</sup>)</td>
+            <td>Q = It</td>
+            <td>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
