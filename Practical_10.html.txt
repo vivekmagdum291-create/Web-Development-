@@ -9,9 +9,9 @@
 <div style="width:65%; margin:auto; background:white; padding:25px; margin-top:30px; border:1px solid gray;">
 
     <!-- Name -->
-    <h1 style="text-align:center; color:#2c3e50;">Kiran Navnath Waghmode</h1>
+    <h1 style="text-align:center; color:#2c3e50;">vivek magdum</h1>
     <p style="text-align:center; font-size:18px;">
-        Email: waghmodekiran001@gmail.com | Phone: 1234567890
+        Email: vivekmagdum291@gmail.com | Phone: 1234567890
     </p>
 
     <hr>
@@ -37,12 +37,12 @@
         </tr>
         <tr>
             <td>12th</td>
-            <td>Shreenath junior college malshiras</td>
+            <td>Sanjay ghodawat</td>
             <td>2024</td>
         </tr>
         <tr>
             <td>10th</td>
-            <td>Shreeram Enghilsh school paniv</td>
+            <td>mahavir public school</td>
             <td>2022</td>
         </tr>
     </table>
@@ -79,7 +79,7 @@
     <!-- Signature -->
     <p style="text-align:right; margin-top:40px;">
         <b>Signature</b><br>
-        Kiran Waghmode
+        vivek magdum
     </p>
 
 </div>
