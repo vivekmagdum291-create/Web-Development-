@@ -4,20 +4,20 @@
 <college>
     
 	<student>
-		<name>Kiran WAGHMODE </name>
+		<name>vivek magdum </name>
 		<gender>Male</gender>
 		<age> 20 </age>
 		<course> Computer  Engineering</course>
 		<year> second year</year>
 		<collegeName> D Y Patil college of engineering and technology, Kolhapur</collegeName>
 		<address>
-		<city> Malshiras</city>
+		<city> kolhapur</city>
 		<state> Maharashtra</state>
 		<country> India </country>
 		</address>
 		<contact>
 		<mobile>1234656789</mobile>
-		<email>waghmodekiran001@gmail.com</email>
+		<email>vivekmagdum291@gmail.com</email>
 		</contact>
 		<skills>
 		<p> Basic Java programming</p>
